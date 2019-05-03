@@ -14,7 +14,8 @@ Done bellow things
 5.created the Model class for the json response.
 6.call the API using retrofit 
 7.parse the Json result and display in recycleview as per requirement 
-
+8.used MVC pattern to develop this app.
+Model view and controller strategy.
 
 Need to implement.
 
