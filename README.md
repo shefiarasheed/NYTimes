@@ -29,4 +29,4 @@ Need to implement.
 I am lack of Android studio in my personel lap.The latest Android sdk needs
 3.5GB yo download.
 
-If  let me to complete tommorow.
+Please let me to complete tommorow.
